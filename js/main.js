@@ -159,7 +159,7 @@ var base_url = window.location.origin;
 let model;
 (async function(){  
     console.log("model loading...");  
-    model = await tf.loadLayersModel("Users/tsheringpenjor/Desktop/ITPRJ303 Project III/Model/Handwritten_Dzongkhamodels/models/model.json")
+    model = await tf.loadLayersModel("https://tsheringpenjor.github.io/PRJ303/models/model.json")
     console.log("model loaded..");
 })();
 
