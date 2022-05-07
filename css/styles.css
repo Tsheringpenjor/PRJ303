@@ -31,17 +31,18 @@
    text-align: center;
    position: relative;
    color: honeydew;
-   background-color: greenyellow;
+   background-color: #33A8FF;
    padding-top: 1%;
    padding-bottom: 1%;
    font-weight: bold;
+   font-size: 20px;
    font-family: 'Prompt', sans-serif;
    
 }
 
 #footer{
   text-align: center;
-  background-color: #292b2c;
+  background-color: ;
   color: #fff;
   padding-top: 1%;
   padding-bottom: 0%;
